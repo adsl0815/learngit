@@ -5,3 +5,4 @@ Git tracks changes
 111111
 Creating a new branch is quick & simple
 Creating a new branch is quick and simple
+add merge
